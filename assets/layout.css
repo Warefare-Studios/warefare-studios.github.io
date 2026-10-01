@@ -1,6 +1,6 @@
 body {font-family: Raleway, Ariel, Helvetica, comic-sans;}
 
-.navbar {overflow: hidden; background-color: #028121;}
+.navbar {width: 100%; margin: 0; padding: 0; overflow: hidden; background-color: #028121; box-sizing: border-box;}
 
 .navbar a {float: left; font-size: 16px; color: rgb(0, 0, 0); text-align: center; padding: 14px 16px; text-decoration: none;}
 
