@@ -1,4 +1,4 @@
-body {font-family: Raleway, Ariel, Helvetica, comic-sans;}
+body {font-family: Raleway, Ariel, Helvetica, comic-sans; margin: 0;}
 
 .navbar {width: 100%; margin: 0; padding: 0; overflow: hidden; background-color: #028121; box-sizing: border-box;}
 
@@ -30,5 +30,3 @@ body {font-family: Raleway, Ariel, Helvetica, comic-sans;}
 #images { position : relative ; left : 1px ; top : 75px ; }
 a.plain { text-decoration : none ; color : blue}
 article.main { width : 350px ; float : left ; margin-right : 10px ; margin-left : 50px}
-
-
